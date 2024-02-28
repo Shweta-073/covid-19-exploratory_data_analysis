@@ -29,9 +29,10 @@ Importing Dataset Into SQL Server
 It is recommended that SQL Server Import and Export Data (64 bit) wizard is launched from the Start Menu, and not the inbuilt option available within SSMS
 
 Analysis
-List Of Countries Affected By Covid19
-Number Of Countries Affected By Covid19
-Date Of First Case Reported For Each Country
+
+1) List Of Countries Affected By Covid19
+2) Number Of Countries Affected By Covid19
+3) Date Of First Case Reported For Each Country
 Total Cases Vs Total Deaths (All Countries) - Observing Change With Time
 Total Case Vs Total Deaths (India) - Observing Change With Time
 CASES_SUMMARY: Isolating Total Cases, Total Deaths For Each Country
