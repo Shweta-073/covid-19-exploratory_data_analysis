@@ -1,9 +1,6 @@
 /* 
 
-COVID19 Exploratory Analysis using SQL-SERVER
-
-Shine Jayakumar
-shinejayakumar@yahoo.com
+COVID19 Exploratory Analysis
 
 
 
