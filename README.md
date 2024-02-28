@@ -1,4 +1,4 @@
-An exploratory data analysis project on Covid19 cases, deaths, and vaccinations from, 1st Jan, 2020 to 12th May, 2021. This project is purely based on SQL Server, employing its innate capabilities: User-defined Procedures, Temp Tables, CTE, and Views.
+An exploratory data analysis project on Covid19 cases, deaths, and vaccinations from, 1st Jan, 2020 to 12th May, 2021. This project is purely based on SQL, employing its innate capabilities: User-defined Procedures, Temp Tables, CTE, and Views.
 
 Table of Contents
 
