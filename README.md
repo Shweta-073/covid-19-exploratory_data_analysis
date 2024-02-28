@@ -33,21 +33,21 @@ Analysis
 1) List Of Countries Affected By Covid19
 2) Number Of Countries Affected By Covid19
 3) Date Of First Case Reported For Each Country
-Total Cases Vs Total Deaths (All Countries) - Observing Change With Time
-Total Case Vs Total Deaths (India) - Observing Change With Time
-CASES_SUMMARY: Isolating Total Cases, Total Deaths For Each Country
-Cases And Deaths Compared To Population
-Cases And Deaths Compared To Population (India)
-Highest To Lowest Death Count
-Cases And Deaths - Continent Wise
-Vaccination Start Date For Countries
-Total No. Of People Vaccinated, Vaccination Percentage Of Population
-TOP 5 countries with most people vaccinated (United States, India, United Kingdom)
-Comparing Diabetes Prevalence, Cardiovascular Death Rate To Death Percentage
-Comparing Stringency Index to Infected Population And Death Percentage
-Comparing Smokers to Infected Population And Death Percentage
-Comparing Percentage Of Population Over 65 And 70 To Infected Population And Death Percentage
-Comparing GDP, Human Development Index, Extreme Poverty To Vaccinated Population Percentage
-Correlation Between New Vaccinations And New Cases For Top 5 Countries with Highest Count Of Vaccination
-Correlation Between New Vaccinations And New Deaths For Top 5 Countries with Highest Count Of Vaccination
-Correlation Between New Vaccinations And Stringency Index For Top 5 Countries with Highest Count Of Vaccination
+4) Total Cases Vs Total Deaths (All Countries) - Observing Change With Time
+5) Total Case Vs Total Deaths (India) - Observing Change With Time
+6) CASES_SUMMARY: Isolating Total Cases, Total Deaths For Each Country
+7) Cases And Deaths Compared To Population
+8) Cases And Deaths Compared To Population (India)
+9) Highest To Lowest Death Count
+10) Cases And Deaths - Continent Wise
+11) Vaccination Start Date For Countries
+12) Total No. Of People Vaccinated, Vaccination Percentage Of Population
+13) TOP 5 countries with most people vaccinated (United States, India, United Kingdom)
+14) Comparing Diabetes Prevalence, Cardiovascular Death Rate To Death Percentage
+15) Comparing Stringency Index to Infected Population And Death Percentage
+16) Comparing Smokers to Infected Population And Death Percentage
+17) Comparing Percentage Of Population Over 65 And 70 To Infected Population And Death Percentage
+18) Comparing GDP, Human Development Index, Extreme Poverty To Vaccinated Population Percentage
+19) Correlation Between New Vaccinations And New Cases For Top 5 Countries with Highest Count Of Vaccination
+20) Correlation Between New Vaccinations And New Deaths For Top 5 Countries with Highest Count Of Vaccination
+21) Correlation Between New Vaccinations And Stringency Index For Top 5 Countries with Highest Count Of Vaccination
